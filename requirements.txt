@@ -1,0 +1,6 @@
+Flask==2.2.3
+Flask_Bootstrap==3.3.7.1
+Flask_WTF==1.1.1
+gTTS==2.3.2
+PyPDF2==3.0.1
+WTForms==3.0.1
